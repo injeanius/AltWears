@@ -14,9 +14,10 @@ body {
 input, textarea, select { font-family: Arial, sans-serif; font-size:12px; color:#333; }
 textarea { overflow:auto;}
 
-a img { border:0; }
 
-a { color:#890000; text-decoration: none; cursor:pointer; }
+a img { border:0;}
+
+a { color:#ee2761; text-decoration: none; cursor:pointer; padding-top: 10px; padding-right: 10px;}
 a:hover { color:#333; }
 
 .left, .alignleft { float:left; display:inline; }
