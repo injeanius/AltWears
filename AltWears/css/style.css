@@ -120,6 +120,10 @@ margin: 0 auto; text-align: center;}
 #footer a:hover{ color:#9d0000; }
 #footer span{ padding:0 5px;}
 
+.soldout {border-radius: 8px; padding:5px; font-size:14px; background-color: #ee2761; color: #fff;}
+
+}
+
 .tab-content { display:none;}
 
 .tabbed { min-height:420px;}
